@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 100 // SIZE값을 변경해가며 list 개수 조절
+#define SIZE 10000 // SIZE값을 변경해가며 list 개수 조절
 int arr[SIZE];
 int list[SIZE];
 int sorted[SIZE];
